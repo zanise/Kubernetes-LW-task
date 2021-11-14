@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-11-14T21:42:15.8919621+01:00"
+    description: this is zanise jenkins package
+    digest: 4e3cf3c727b72fb46f9d6f3971c1c22a86297d0e3a2a232b2186f3bf25f86bd2
+    name: jenkins
+    urls:
+    - jenkins-0.1.tgz
+    version: "0.1"
+generated: "2021-11-14T21:42:15.8587804+01:00"
